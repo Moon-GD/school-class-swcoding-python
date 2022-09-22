@@ -1,3 +1,5 @@
+##### <a href="https://github.com/Moon-GD/SW_coding_Python_/blob/main/3%EC%A3%BC%EC%B0%A8%20Exercise.ipynb" target="_blank">코드 참고 링크</a>
+
 ## 1. 다음과 같이 사용자로부터 3개의 임의의 정수를 입력으로 받아서 가장 작은 수부터 큰 수까지 나열하는 프로그램을 if-else 문을 사용하여 작성하시오.
 
 ![image](https://user-images.githubusercontent.com/74173976/190890099-dd70d53e-70ba-4a5c-a845-b88e236a74d2.png)
