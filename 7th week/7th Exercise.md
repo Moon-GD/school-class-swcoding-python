@@ -1,5 +1,7 @@
 # 모듈과 활용
 
+<a href="https://github.com/Moon-GD/SW_coding_Python_/blob/main/7th%20week/%EB%AC%B8%EA%B2%BD%EB%8D%95%207%EC%A3%BC%EC%B0%A8%20Exercise.ipynb">전체 코드 주소</a>
+
 ## 1. 로미오와 줄리엣 두 사람이 주사위를 던져서 높은 숫자가 나오면 이기는 게임을 만들어보자. 로미오와 줄리엣의 주사위는 모두 다음과 같이 random 모듈의 randrange( )를 통해서 생성한 난수를 바탕으로 한다. 출력 결과는 다음과 같이 로미오가 이기거나, 줄리엣이 이기거나, 비기는 결과가 나와야 한다.
 
 ![image](https://user-images.githubusercontent.com/74173976/195782264-88a7a4b9-b884-441d-9ec3-83c4d2f25aac.png)
